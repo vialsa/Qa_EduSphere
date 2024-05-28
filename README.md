@@ -2,7 +2,7 @@
 
 O Edusphere é uma plataforma para gerenciamento de atividades acadêmicas. Com ela, instituições de ensino podem gerenciar de forma fácil todos os módulos de cursos.
 
-# Escopo do Projeto
+## Escopo do Projeto
 
 1. Registro de Usuários:
 - Administradores do sistema registram outros usuários (gestores de
@@ -16,19 +16,19 @@ adequado aos diferentes usuários.
 - Definir níveis de permissão para garantir que cada usuário tenha acesso apenas
 às funcionalidades apropriadas.
 
-## Módulo do Aluno
+### Módulo do Aluno
 
 Perfil do Aluno:
 - Exibir informações pessoais e dados acadêmicos, apenas.
 Efetuar matrícula em Disciplinas Oferecidas no semestre:
 - O aluno poderá realizar a matrícula nas disciplinas disponibilizadas para ele.
   
-## Módulo do Professor
+### Módulo do Professor
 
 7. Perfil do Professor:
 - Exibir informações pessoais e dados acadêmicos, apenas.
   
-## Módulo do Gestor de Departamento
+### Módulo do Gestor de Departamento
 
 8. Gerenciamento de Professores:
 -Permitir a adição, remoção e edição de informações sobre professores.
@@ -36,3 +36,9 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 -Cadastra no sistema as disciplinas que serão lecionadas.
 10. Alocação de Disciplinas:
 -Facilitar a atribuição eficiente de disciplinas aos professores.
+
+## Casos de Teste
+
+-
+-
+-
