@@ -31,11 +31,11 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 ### Módulo do Gestor de Departamento
 
 8. Gerenciamento de Professores:
--Permitir a adição, remoção e edição de informações sobre professores.
-9. Cadastro de Disciplinas:
--Cadastra no sistema as disciplinas que serão lecionadas.
-10. Alocação de Disciplinas:
--Facilitar a atribuição eficiente de disciplinas aos professores.
+- Permitir a adição, remoção e edição de informações sobre professores.
+10. Cadastro de Disciplinas:
+- Cadastra no sistema as disciplinas que serão lecionadas.
+11. Alocação de Disciplinas:
+- Facilitar a atribuição eficiente de disciplinas aos professores.
 
 ## Casos de Teste
 
