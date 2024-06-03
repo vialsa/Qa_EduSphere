@@ -43,4 +43,5 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 - Preencher os campos obrigatórios (nome, email, senha, tipo de usuário: professor).
 - Submeter o formulário.
 - Resultado Esperado: Usuário professor é registrado com sucesso e uma mensagem de confirmação é exibida.
--
+
+- ##
