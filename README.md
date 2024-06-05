@@ -41,6 +41,8 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 ### 1º Cenario: Login
 
+| CT001-01: Login com credenciais validas |
+
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
 - Enviar o formulário.
