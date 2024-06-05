@@ -39,6 +39,8 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 ## Casos de Teste
 
+## 1º Cenario: Login
+
 ### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
 - Enviar o formulário.
