@@ -43,9 +43,7 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 | BDD | Status |
 | --- | --- |
-| Quando eu esteja na tela de login
-  Quando preencher usuario corretamente e Senha incoretamente  
-  O sistema deve informar "Login ou Senha incorreta" |     |
+| Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha incoretamente, O sistema deve informar "Login ou Senha incorreta" |     |
 
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
