@@ -39,21 +39,21 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 ## Casos de Teste
 
-## 1º Cenario: Login
+### 1º Cenario: Login
 
-### Cadastrar Novo gestores de departamento
+#### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
 - Enviar o formulário.
 - Resultado Esperado: Usuário professor é registrado com sucesso e uma mensagem de confirmação é exibida.
 
-### Cadastrar Novo Professor
+#### Cadastrar Novo Professor
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: professor).
 - Enviar o formulário.
 - Resultado Esperado: Usuário professor é registrado com sucesso e uma mensagem de confirmação é exibida.
 
-### Cadastrar Novo Aluno
+#### Cadastrar Novo Aluno
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: professor).
 - Enviar o formulário.
 - Resultado Esperado: Usuário professor é registrado com sucesso e uma mensagem de confirmação é exibida.
 
-###
+####
