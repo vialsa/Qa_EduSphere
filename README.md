@@ -56,9 +56,9 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 | BDD | Status |
 | --- | --- |
-Quando eu esteja na area de recuperar senha  e digitar um email valido sera mandado um email para criar uma nova senha 
-Quando eu esteja na area de recuperar senha e digitar um email invalido aparecera um aviso que o email não é cadastrado "Email não cadastrado"
-Quando eu esteja na area de recuperar senha e nao digitar nada no campo de email o sistema deve informar campo em branco 
+| Quando eu esteja na area de recuperar senha  e digitar um email valido sera mandado um email para criar uma nova senha | 
+| Quando eu esteja na area de recuperar senha e digitar um email invalido aparecera um aviso que o email não é cadastrado "Email não cadastrado" |
+| Quando eu esteja na area de recuperar senha e nao digitar nada no campo de email o sistema deve informar campo em branco |
 
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
