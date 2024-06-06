@@ -52,6 +52,11 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 | Quando eu esteja na area de login, Ao clicar na opção Novo aqui? Criar conta, O sistema deve direcionar para tela de registar |    |
 | Quando eu esteja na area de login, Ao clicar na opção esqueceu sua senha?, O sistema deve direcionar para tela de recuperar senha |    |
 
+### 2º Cenario: Recuperar Senha
+
+| BDD | Status |
+| --- | --- |
+
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
 - Enviar o formulário.
