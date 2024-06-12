@@ -78,6 +78,16 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 | BDD | Status |
 | --- | --- |
 
+### 6º Cenario: 
+
+| BDD | Status |
+| --- | --- |
+
+### 7º Cenario: 
+
+| BDD | Status |
+| --- | --- |
+
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
 - Enviar o formulário.
