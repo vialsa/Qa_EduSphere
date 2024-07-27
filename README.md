@@ -39,6 +39,8 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 
 ## Casos de Teste
 
+Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/spreadsheets/d/154YdFsW36r9nLieqHUPfc2Kj2nai1_iODxsipl8ShoA/edit?usp=sharing
+
 ### 1º Cenario: Login
 
 | BDD | Status |
