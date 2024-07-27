@@ -68,10 +68,13 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 | Quando digitei senhas diferentes no campo um e no campo dois. Aparece um aviso "Senhas diferentes" |    |
 | Quando deixei um campo em branco ou os dois campos em branco. O sistema deve informar de que esta vazio (fica vermelho ?) |    |
 
-### 4º Cenario: Tela Padrao 
+### 4º Cenario: Tela Padrao (Navbar)
 
 | BDD | Status |
 | --- | --- |
+| Quando cliquei no botao de expadir com a navbar maximizada. Minimizar para modo recolhido |    |
+| Quando cliquei no botao de expadir com a navbar recolhida. Maximizar para modo grande     |    |
+|  |    |
 
 ### 5º Cenario: 
 
