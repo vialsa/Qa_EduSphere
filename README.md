@@ -49,7 +49,7 @@ Efetuar matrícula em Disciplinas Oferecidas no semestre:
 | Quando eu esteja na area de login, O usario tentar fazer login sem preencher alguma informação (deixar em branco), O sistema deve informar que o campo deve ser preenchido |    |   
 | Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos fazer login e logout a credencial de usuario deve ficar salva |    |
 | Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos tentar fazer login e nao consegui a credencial de usuario nao deve ficar salva |    |
-| Quando eu esteja na area de login, Ao clicar na opção Novo aqui? Criar conta, O sistema deve direcionar para tela de registar |    |
+| Quando eu esteja na area de login, Ao clicar na opção "Novo aqui? Criar conta", O sistema deve direcionar para tela de registar |    |
 | Quando eu esteja na area de login, Ao clicar na opção esqueceu sua senha?, O sistema deve direcionar para tela de recuperar senha |    |
 
 ### 2º Cenario: Recuperar Senha
