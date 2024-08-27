@@ -95,11 +95,11 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | Ao clicar no botão apagar aparece um popup para confirmação de exclusao  |  |   |
 | Ao clicar em apagar. Apaga corretamente o dado do BD e atualiza a tabala? |  |   |
 | Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
+| Quando esteja na tabela as colunas ficam estaticas |  |   |
+| Ao clicar no botão adicionar departamento abre o pop-up (Pop-up add Departamento) |  |   |
+| No pop-up ao deixar alguma informação em branco na hora de salvar o departamento aparece o aviso em vermelho (Não foi possível cadastrar o departamento. Verifique e tente novamente.) |  |   |
+| Ao preencher corretamente os campus e salvar aparece o aviso (Departamento adicionado com sucesso.) e o novo departamento é adicionado ao BD e pode ser vizualizado na tabela   |  |   |
+| Ao clicar no botão voltar do pop-up volta para tela anterior nome e descrição  |  |   |
 
 ### 6º Cenario: 
 
