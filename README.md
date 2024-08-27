@@ -101,10 +101,27 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | Ao preencher corretamente os campus e salvar aparece o aviso (Departamento adicionado com sucesso.) e o novo departamento é adicionado ao BD e pode ser vizualizado na tabela   |  |   |
 | Ao clicar no botão voltar do pop-up volta para tela anterior nome e descrição  |  |   |
 
-### 6º Cenario: 
+### 6º Cenario: Tela Adm Gerenciar Usuarios
 
 | BDD | Status | Descrição |
 | --- | --- | --- |
+| Quando busquei um departamento por nome atualizou a tabela com informações corretas  |  |   |
+| Quando busquei um departamento por codigo atualizou a tabela com informações corretas  |  |   |
+| Ao pesquisar atualiza a tabela nomes?  |  |   |
+| Ao pesquisar atualiza a tabela codigo? |  |   |
+| Quando clicar nos botão < ou > a tabela atualiza os proximos dados  |  |   |
+| A tabela mostra quantas paginas de dados tem no final ? |  |   |
+| Ao clicar no botão apagar aparece um popup para confirmação de exclusao  |  |   |
+| Ao clicar em apagar. Apaga corretamente o dado do BD e atualiza a tabala? |  |   |
+| Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela |  |   |
+| Ao clicar no botão de editar abre um pop-up editar usuario |  |   |
+| No pop-up edição de usuario aparece as informações cadastradas do usuario permitindo edição, ao tentar Salvar e deixar algum campo em branco aparece (Não foi possivel editar o usuario. Verifique e tente novamente) |  |   |
+| No pop-up edição de usuario aparece as informações cadastradas do usuario permitindo edição, ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
+| Quando esteja na tabela as colunas ficam estaticas |  |   |
+|  |  |   |
+
+
+
 
 ### 7º Cenario: 
 
