@@ -118,7 +118,19 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | No pop-up edição de usuario aparece as informações cadastradas do usuario permitindo edição, ao tentar Salvar e deixar algum campo em branco aparece (Não foi possivel editar o usuario. Verifique e tente novamente) |  |   |
 | No pop-up edição de usuario aparece as informações cadastradas do usuario permitindo edição, ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
 | Quando esteja na tabela as colunas ficam estaticas |  |   |
-|  |  |   |
+| Ao clicar no botão adicionar usuario abre o pop-up add User onde tem 3 opções de usuarios para poder adicionar |  |   |
+| Se escolher a estudante é direcionado a tela adicionar estudante do pop-up. Ao selecionar uma foto com formato ou tamanho nao compativel aparece um aviso (Foto com incompativel) |  |   |
+| Ao deixar alguma informação em branco na hora de salvar o estudante aparece o aviso em vermelho (Não foi possível cadastrar o Usuario. Verifique e tente novamente.) |  |   |
+| Combobox:Cursos da tela de Adcionar usuarios alunos aparece Cusos cadastrados no BD  |  |   |
+| Ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
+| Se escolher a Professor é direcionado a tela adicionar professor do pop-up. Ao selecionar uma foto com formato ou tamanho nao compativel aparece um aviso (Foto com incompativel) |  |   |
+| Ao deixar alguma informação em branco na hora de salvar o estudante aparece o aviso em vermelho (Não foi possível cadastrar o Usuario. Verifique e tente novamente.) |  |   |
+| Ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
+| Se escolher a Gestor é direcionado a tela adicionar professor do pop-up. Ao selecionar uma foto com formato ou tamanho nao compativel aparece um aviso (Foto com incompativel) |  |   |
+| Ao deixar alguma informação em branco na hora de salvar o estudante aparece o aviso em vermelho (Não foi possível cadastrar o Usuario. Verifique e tente novamente.) |  |   |
+| Combobox:Departamentos da tela de Adcionar usuarios Gestor aparece Departamentos cadastrados no BD  |  |   |
+| Ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
+
 
 
 
