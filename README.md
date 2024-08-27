@@ -87,6 +87,13 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | BDD | Status |
 | Quando busquei um departamento por nome atualizou a tabela com informações corretas  |  |
 | Quando busquei um departamento por codigo atualizou a tabela com informações corretas  |  |
+| Ao pesquisar atualiza a tabela nomes?  |  |
+| Ao pesquisar atualiza a tabela codigo? |  |
+| Quando clicar nos botão < ou > a tabela atualiza os proximos dados  |  |
+| A tabela mostra quantas paginas de dados tem no final ? |  |
+| Ao clicar no botão apagar aparece um popup para confirmação de exclusao  |  |
+| Ao clicar em apagar. Apaga corretamente o dado do BD e atualiza a tabala? |  |
+| Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela |  |
 |  |  |
 |  |  |
 |  |  |
