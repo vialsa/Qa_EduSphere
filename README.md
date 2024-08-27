@@ -82,10 +82,16 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | Quando cliquei no botão Cursos a pagina foi direcionada para cusos  |    |
 | Quando cliquei no botão logout apereceu um aviso na tela para confirmação do logout   |    |
 
-### 5º Cenario: 
+### 5º Cenario: Tela Adm Departamentos
 
 | BDD | Status |
-| --- | --- |
+| Quando busquei um departamento por nome atualizou a tabela com informações corretas  |  |
+| Quando busquei um departamento por codigo atualizou a tabela com informações corretas  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ### 6º Cenario: 
 
