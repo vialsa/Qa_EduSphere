@@ -43,8 +43,8 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 
 ### 1º Cenario: Login
 
-| BDD | Status |
-| --- | --- |
+| BDD | Status | Descrição |
+| --- | --- | --- |
 | Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha incoretamente, O sistema deve informar "Login ou Senha incorreta" |     |
 | Quando eu esteja na tela de login, Quando preencher usuario incorretamente e Senha coretamente  O sistema deve informar "Login ou Senha incorreta" |     |
 | Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha coretamente  O sistema deve logar como (gestor, professor ou aluno) |    |
