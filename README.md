@@ -45,71 +45,71 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 
 | BDD | Status | Descrição |
 | --- | --- | --- |
-| Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha incoretamente, O sistema deve informar "Login ou Senha incorreta" |     |
-| Quando eu esteja na tela de login, Quando preencher usuario incorretamente e Senha coretamente  O sistema deve informar "Login ou Senha incorreta" |     |
-| Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha coretamente  O sistema deve logar como (gestor, professor ou aluno) |    |
-| Quando eu esteja na area de login, O usario tentar fazer login sem preencher alguma informação (deixar em branco), O sistema deve informar que o campo deve ser preenchido |    |   
-| Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos fazer login e logout a credencial de usuario deve ficar salva |    |
-| Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos tentar fazer login e nao consegui a credencial de usuario nao deve ficar salva |    |
-| Quando eu esteja na area de login, Ao clicar na opção "Novo aqui? Criar conta", O sistema deve direcionar para tela de registar |    |
-| Quando eu esteja na area de login, Ao clicar na opção esqueceu sua senha?, O sistema deve direcionar para tela de recuperar senha |    |
+| Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha incoretamente, O sistema deve informar "Login ou Senha incorreta" |     |   |
+| Quando eu esteja na tela de login, Quando preencher usuario incorretamente e Senha coretamente  O sistema deve informar "Login ou Senha incorreta" |     |   |
+| Quando eu esteja na tela de login, Quando preencher usuario corretamente e Senha coretamente  O sistema deve logar como (gestor, professor ou aluno) |    |   |
+| Quando eu esteja na area de login, O usario tentar fazer login sem preencher alguma informação (deixar em branco), O sistema deve informar que o campo deve ser preenchido |    |    |  
+| Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos fazer login e logout a credencial de usuario deve ficar salva |    |   |
+| Quando eu esteja na area de login, Ao selecionar a opção manter conectado, Apos tentar fazer login e nao consegui a credencial de usuario nao deve ficar salva |    |   |
+| Quando eu esteja na area de login, Ao clicar na opção "Novo aqui? Criar conta", O sistema deve direcionar para tela de registar |    |   |
+| Quando eu esteja na area de login, Ao clicar na opção esqueceu sua senha?, O sistema deve direcionar para tela de recuperar senha |    |   |
 
 ### 2º Cenario: Recuperar Senha
 
-| BDD | Status |
-| --- | --- |
-| Quando eu esteja na area de recuperar senha  e digitar um email valido sera mandado um email para criar uma nova senha |    | 
-| Quando eu esteja na area de recuperar senha e digitar um email invalido aparecera um aviso que o email não é cadastrado "Email não cadastrado" |    |
-| Quando eu esteja na area de recuperar senha e nao digitar nada no campo de email o sistema deve informar campo em branco |    |
+| BDD | Status | Descrição |
+| --- | --- | --- |
+| Quando eu esteja na area de recuperar senha  e digitar um email valido sera mandado um email para criar uma nova senha |    |   |   
+| Quando eu esteja na area de recuperar senha e digitar um email invalido aparecera um aviso que o email não é cadastrado "Email não cadastrado" |    |   |
+| Quando eu esteja na area de recuperar senha e nao digitar nada no campo de email o sistema deve informar campo em branco |    |   |
 
 ### 3º Cenario: Nova Senha
 
-| BDD | Status |
-| --- | --- |
-| Quando digitei senhas campativeis no campo um e no campo dois. Aparece um aviso do sistema "Nova senha registrada" |    |
-| Quando digitei senhas diferentes no campo um e no campo dois. Aparece um aviso "Senhas diferentes" |    |
-| Quando deixei um campo em branco ou os dois campos em branco. O sistema deve informar de que esta vazio (fica vermelho ?) |    |
+| BDD | Status | Descrição |
+| --- | --- | --- |
+| Quando digitei senhas campativeis no campo um e no campo dois. Aparece um aviso do sistema "Nova senha registrada" |    |   |
+| Quando digitei senhas diferentes no campo um e no campo dois. Aparece um aviso "Senhas diferentes" |    |   |
+| Quando deixei um campo em branco ou os dois campos em branco. O sistema deve informar de que esta vazio (fica vermelho ?) |    |   |
 
 ### 4º Cenario: Tela Padrao (Navbar)
 
-| BDD | Status |
-| --- | --- |
-| Quando cliquei no botao de expadir com a navbar maximizada. Minimizar para modo recolhido |    |
-| Quando cliquei no botao de expadir com a navbar recolhida. Maximizar para modo grande     |    |
-| Quando cliquei no botão perfil a pagina foi direcionada para perfil |    |
-| Quando cliquei no botão Usuarios a pagina foi direcionada para usuarios  |    |
-| Quando cliquei no botão Departamento a pagina foi direcionada para departamentos |    |
-| Quando cliquei no botão Cursos a pagina foi direcionada para cusos  |    |
-| Quando cliquei no botão logout apereceu um aviso na tela para confirmação do logout   |    |
+| BDD | Status | Descrição |
+| --- | --- | --- |
+| Quando cliquei no botao de expadir com a navbar maximizada. Minimizar para modo recolhido |    |   |
+| Quando cliquei no botao de expadir com a navbar recolhida. Maximizar para modo grande     |    |   |
+| Quando cliquei no botão perfil a pagina foi direcionada para perfil |    |   |
+| Quando cliquei no botão Usuarios a pagina foi direcionada para usuarios  |    |   |
+| Quando cliquei no botão Departamento a pagina foi direcionada para departamentos |    |   |
+| Quando cliquei no botão Cursos a pagina foi direcionada para cusos  |    |   |
+| Quando cliquei no botão logout apereceu um aviso na tela para confirmação do logout   |    |   |
 
 ### 5º Cenario: Tela Adm Departamentos
 
-| BDD | Status |
-| --- | --- |
-| Quando busquei um departamento por nome atualizou a tabela com informações corretas  |  |
-| Quando busquei um departamento por codigo atualizou a tabela com informações corretas  |  |
-| Ao pesquisar atualiza a tabela nomes?  |  |
-| Ao pesquisar atualiza a tabela codigo? |  |
-| Quando clicar nos botão < ou > a tabela atualiza os proximos dados  |  |
-| A tabela mostra quantas paginas de dados tem no final ? |  |
-| Ao clicar no botão apagar aparece um popup para confirmação de exclusao  |  |
-| Ao clicar em apagar. Apaga corretamente o dado do BD e atualiza a tabala? |  |
-| Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| BDD | Status | Descrição |
+| --- | --- | --- |
+| Quando busquei um departamento por nome atualizou a tabela com informações corretas  |  |   |
+| Quando busquei um departamento por codigo atualizou a tabela com informações corretas  |  |   |
+| Ao pesquisar atualiza a tabela nomes?  |  |   |
+| Ao pesquisar atualiza a tabela codigo? |  |   |
+| Quando clicar nos botão < ou > a tabela atualiza os proximos dados  |  |   |
+| A tabela mostra quantas paginas de dados tem no final ? |  |   |
+| Ao clicar no botão apagar aparece um popup para confirmação de exclusao  |  |   |
+| Ao clicar em apagar. Apaga corretamente o dado do BD e atualiza a tabala? |  |   |
+| Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
 
 ### 6º Cenario: 
 
-| BDD | Status |
-| --- | --- |
+| BDD | Status | Descrição |
+| --- | --- | --- |
 
 ### 7º Cenario: 
 
-| BDD | Status |
-| --- | --- |
+| BDD | Status | Descrição |
+| --- | --- | --- |
 
 #### Cadastrar Novo gestores de departamento
 - Preencher os campos obrigatórios com dados validos (nome, email, senha, tipo de usuário: Gestor).
