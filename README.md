@@ -76,7 +76,11 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | --- | --- |
 | Quando cliquei no botao de expadir com a navbar maximizada. Minimizar para modo recolhido |    |
 | Quando cliquei no botao de expadir com a navbar recolhida. Maximizar para modo grande     |    |
-|  |    |
+| Quando cliquei no botão perfil a pagina foi direcionada para perfil |    |
+| Quando cliquei no botão Usuarios a pagina foi direcionada para usuarios  |    |
+| Quando cliquei no botão Departamento a pagina foi direcionada para departamentos |    |
+| Quando cliquei no botão Cursos a pagina foi direcionada para cusos  |    |
+| Quando cliquei no botão logout apereceu um aviso na tela para confirmação do logout   |    |
 
 ### 5º Cenario: 
 
