@@ -130,7 +130,15 @@ Link para planilha com os casos de teste QA_EduShere: https://docs.google.com/sp
 | Ao deixar alguma informação em branco na hora de salvar o estudante aparece o aviso em vermelho (Não foi possível cadastrar o Usuario. Verifique e tente novamente.) |  |   |
 | Combobox:Departamentos da tela de Adcionar usuarios Gestor aparece Departamentos cadastrados no BD  |  |   |
 | Ao tentar Salvar com informações preenchidas corretamente  (Usuario Salvo com sucesso) e o usuario é atualizado no BD e pode ser vizualizado na tabela |  |   |
-
+| Quando busquei um curso por nome atualizou a tabela com informações corretas  | |  |
+| Quando busquei um curso por codigo atualizou a tabela com informações corretas | |  |
+| Ao pesquisar atualiza a tabela nome do curso? | |  |
+| Ao pesquisar atualiza a tabela codigo co curso? | |  |
+| Quando clicar nos botão < ou > a tabela atualiza os proximos dados  | |  |
+| A tabela mostra quantas paginas de dados tem no final ? | |  |
+| Ao clicar no botão apagar aparece um popup para confirmação de exclusao  | |  |
+| Todos itens da tabala mostra apenas como vizualização nao permitindo edição direto da tabela | |  |
+| Quando esteja na tabela as colunas ficam estaticas | |  |
 
 
 
